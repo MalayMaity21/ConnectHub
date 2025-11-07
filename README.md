@@ -2,7 +2,8 @@
 
 A **modern social media web application** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** that lets users share posts, follow others, and engage in real-time conversations.
 
-![ConnectHub Banner](https://user-images.githubusercontent.com/00000000/placeholder-image.png)
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/665b498f-a815-4e2e-802a-d5415b9c49ee" />
 
 ---
 
